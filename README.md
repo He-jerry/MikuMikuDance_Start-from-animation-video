@@ -31,9 +31,11 @@ Use the Colab File to run! [MikuMukuDance.ipynb](https://github.com/He-jerry/MMD
 (Because I have finished the codes of each part, it may seems messy.)
 
 
-#Result
+Result
+==== 
 
-##original short video
+original short video
+-----
 
 ![image](https://github.com/He-jerry/MMD_Detectron2/blob/main/video_teaser/original.gif)
 
