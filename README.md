@@ -93,6 +93,8 @@ Further Update
 
 - [ ] GAN network embedded to do Domain Adaption
 
+- [ ] Anime Dataset
+
 
 
 Citation
