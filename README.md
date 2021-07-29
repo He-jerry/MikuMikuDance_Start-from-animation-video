@@ -37,6 +37,7 @@ Use the Colab File to run! [MikuMukuDance.ipynb](https://github.com/He-jerry/MMD
 
 ![image](https://github.com/He-jerry/MMD_Detectron2/blob/main/video_teaser/original.gif)
 
+```diff
 +Which is a cute Virtuber in BiliBili: Merry
-
+```
    
