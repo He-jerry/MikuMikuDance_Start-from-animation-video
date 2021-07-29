@@ -1,5 +1,13 @@
 # MMD_Detectron2
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
+
 The project is inspired by the OpenMMD project [OpenMMD](https://github.com/peterljq/OpenMMD).
 
 The main idea is to solve the MMD generation problem while the original input video is animation(Cartoon) but not real human video. Because the domain of the animation is not similar with real human, it makes the pose estimation not as accurate as real world. However, I still want to test it because the animation is the main video type to generate the MMD file.
@@ -29,6 +37,6 @@ Use the Colab File to run! [MikuMukuDance.ipynb](https://github.com/He-jerry/MMD
 
 ![image](https://github.com/He-jerry/MMD_Detectron2/blob/main/video_teaser/original.gif)
 
-<font color=Blue>Which is a cute Virtuber in BiliBili: Merry</font>
++Which is a cute Virtuber in BiliBili: Merry
 
    
