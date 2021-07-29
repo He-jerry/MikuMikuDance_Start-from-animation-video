@@ -38,8 +38,11 @@ Use the Colab File to run! [MikuMukuDance.ipynb](https://github.com/He-jerry/MMD
 ![image](https://github.com/He-jerry/MMD_Detectron2/blob/main/video_teaser/original.gif)
 
 [Original Video](https://www.bilibili.com/video/BV1V54y1J7HS)
+
 ```diff
 +Which is a cute Virtuber in BiliBili: Merry
-!Bilibili Space Address:[Bilibili](https://space.bilibili.com/745493?spm_id_from=333.788.b_765f7570696e666f.2)
 ```
+
+Bilibili Space Address:[Bilibili](https://space.bilibili.com/745493?spm_id_from=333.788.b_765f7570696e666f.2)
+
    
