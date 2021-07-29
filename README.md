@@ -75,3 +75,50 @@ Inc.3 Video Depth Estimation
 
 ![image](https://github.com/He-jerry/MMD_Detectron2/blob/main/video_teaser/3.gif)
 
+
+Guideline
+==== 
+
+I will write an introduction of the project as soon as possible in Github and BiliBili both.
+
+
+Citation
+====
+
+    Material Citation:
+    Video original Author: Merry[https://space.bilibili.com/745493](https://space.bilibili.com/745493)
+
+    Paper Citation:
+    @article{Pavllo20193DHP,
+  title={3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training},
+  author={Dario Pavllo and Christoph Feichtenhofer and David Grangier and Michael Auli},
+  journal={2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2019},
+  pages={7745-7754}
+}
+
+    @article{Sun2019DeepHR,
+  title={Deep High-Resolution Representation Learning for Human Pose Estimation},
+  author={Ke Sun and Bin Xiao and Dong Liu and Jingdong Wang},
+  journal={2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2019},
+  pages={5686-5696}
+}
+
+
+    @article{Godard2019DiggingIS,
+  title={Digging Into Self-Supervised Monocular Depth Estimation},
+  author={C. Godard and Oisin Mac Aodha and G. Brostow},
+  journal={2019 IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2019},
+  pages={3827-3837}
+}
+
+    @article{He2020MaskR,
+  title={Mask R-CNN},
+  author={Kaiming He and Georgia Gkioxari and Piotr Doll{\'a}r and Ross B. Girshick},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2020},
+  volume={42},
+  pages={386-397}
+}
