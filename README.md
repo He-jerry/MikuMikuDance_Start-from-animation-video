@@ -85,11 +85,13 @@ I will write an introduction of the project as soon as possible in Github and Bi
 Further Update
 ==== 
 
-- [ ] 编码Finish the VMD file generation
+- [x] Add Human Pose Estimation to see if the performance increases
 
-- [ ] 编码Replace some methods by Unsupervised Learning to solve the domain gap problem
+- [ ] Finish the VMD file generation
 
-- [ ] 编码GAN network embedded to do Domain Adaption
+- [ ] Replace some methods by Unsupervised Learning to solve the domain gap problem
+
+- [ ] GAN network embedded to do Domain Adaption
 
 
 
