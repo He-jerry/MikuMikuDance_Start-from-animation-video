@@ -2,6 +2,8 @@
 
 The project is inspired by the OpenMMD project [OpenMMD](https://github.com/peterljq/OpenMMD).
 
+The main idea is to solve the MMD generation problem while the original input video is animation(Cartoon) but not real human video. Because the domain of the animation is not similar with real human, it makes the pose estimation not as accurate as real world. However, I still want to test it because the animation is the main video type to generate the MMD file.
+
 Except for the final VMD file generation(I have no 3D model to generate, so do not do this step now.), the step is similar with the OpenMMD.
 
 However, I replace some methods in OpenMMD to the recent networks with Pretrained Weights. Considering the specialistic of the animation dataset, I will try to use Unsupervised methods after finding a large-scale anime dataset.
