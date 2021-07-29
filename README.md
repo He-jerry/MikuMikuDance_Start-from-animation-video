@@ -86,7 +86,10 @@ Citation
 ====
 
 Material Citation:
-    Video original Author: Merry[https://space.bilibili.com/745493](https://space.bilibili.com/745493)
+
+    Video original Author: 
+    
+    Merry  [https://space.bilibili.com/745493](https://space.bilibili.com/745493)
 
 Paper Citation:
 1.
