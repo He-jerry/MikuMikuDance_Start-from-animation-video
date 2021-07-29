@@ -18,7 +18,16 @@ Including Methods:
 3.(Single-image Depth Estimation)Digging into Self-Supervised Monocular Depth Prediction,ICCV2019   [code](https://github.com/nianticlabs/monodepth2/)
 
 
-Use the Colab File to run! [colab](https://github.com/He-jerry/MMD_Detectron2/raw/main/MikuMukuDance.ipynb)
+Use the Colab File to run! [MikuMukuDance.ipynb](https://github.com/He-jerry/MMD_Detectron2/blob/main/MikuMukuDance.ipynb)
+
+(Because I have finished the codes of each part, it may seems messy.)
+
+
+#Result
+
+##original short video
+
+![image](https://github.com/He-jerry/MMD_Detectron2/blob/main/video_teaser/original.gif)
 
 
    
