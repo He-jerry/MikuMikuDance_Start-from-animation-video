@@ -82,6 +82,13 @@ Guideline
 I will write an introduction of the project as soon as possible in Github and BiliBili both.
 
 
+Further Update
+==== 
+- [ ]Finish the VMD file generation
+- [ ]Replace some methods by Unsupervised Learning to solve the domain gap problem
+- [ ]GAN network embedded to do Domain Adaption
+
+
 Citation
 ====
 
