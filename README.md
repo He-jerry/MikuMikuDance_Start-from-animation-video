@@ -1,4 +1,4 @@
-# MMD_Detectron2
+# MMD_Detectron2(Preparation for networks)
 
 ```diff
 - text in red
@@ -29,7 +29,7 @@ Including Methods:
 
 Use the Colab File to run! [MikuMukuDance.ipynb](https://github.com/He-jerry/MMD_Detectron2/blob/main/MikuMukuDance.ipynb)
 
-(Because I have finished the codes of each part, it may seems messy.)
+(Because I have finished the codes of each part yet, it may seems messy.)
 
 
 Result
@@ -90,6 +90,8 @@ Material Citation:
     Video original Author: 
     
     Merry  [https://space.bilibili.com/745493](https://space.bilibili.com/745493)
+    
+    It is appreciated for the Author's creation.
 
 Paper Citation:
 1.
@@ -133,3 +135,10 @@ Paper Citation:
     pages={386-397}
     }
 ```
+
+
+Contact
+====
+
+My BiliBili Space: https://space.bilibili.com/15330556
+Email: hzbjerrycv@gmail.com
