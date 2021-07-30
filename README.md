@@ -18,6 +18,8 @@ However, I replace some methods in OpenMMD to the recent networks with Pretraine
 
 Including Methods:
 
+(Pre-Process) The Image Translation(At least style transfer) from Cartoon image to Real world Image
+
 1.(Pose Estimation) 3D human pose estimation in video with temporal convolutions and semi-supervised training,CVPR2019    [code](https://github.com/facebookresearch/VideoPose3D)
 
 2.(Included in 1,Motion Keypoint Detection) COCO Keypoint-RCNN Detection Based On Detectron2(I will update this method because I find it is not very accurate)
